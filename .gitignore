@@ -17,3 +17,8 @@ app/transcribe/logs/whisper.cpp.txt
 app/transcribe/mic.wav.bak
 app/transcribe/speaker.wav.bak
 *exe
+transcribe-standalone/_internal
+transcribe-standalone/assets
+transcribe-standalone/bin
+transcribe-standalone/logs
+transcribe-standalone/models
